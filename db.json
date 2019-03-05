@@ -3,7 +3,7 @@
     {
       "firstName": "Albert",
       "lastName": "Lacerda",
-      "civicNumber": 700,
+      "civicNumber": "700",
       "street": "Rue Gordon",
       "city": "Montreal",
       "id": 11111
